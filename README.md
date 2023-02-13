@@ -1,2 +1,2 @@
 # Image-classification-using-tensorflow-with-pre-trained-model-VGG16
-Cat and Dog Image classification using VGG16 model
+It is a simple image classification model build up using tensorflow with a pre trained model VGG16. Tensorflow is a Python-friendly open source library for numerical computation that makes machine learning and developing neural networks faster and easier. Cats and dogs were used in this illustration. There are two separate folders for training and testing. The training folder contains 80% of both classes and the rest 20% is used for testing.
